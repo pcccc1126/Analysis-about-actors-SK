@@ -39,7 +39,7 @@ for i in range(len(result)):
 
 plt.rcParams['savefig.dpi'] = 700
 plt.rcParams['figure.dpi'] = 700
-plt.xticks(fontsize = 9)
+plt.xticks(fontsize = 8)
 pl.xticks(rotation = 40)
 pl.xticks(color = '#483d8b')
 pl.yticks(color = '#483d8b')
